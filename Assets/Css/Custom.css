@@ -1,0 +1,36 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+/* Navbar */
+.navbar 
+{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.navbar .navbar-brand 
+{
+    font-weight: bold;
+}
+
+/* Content */
+.content
+{
+    margin-top: 2rem;
+}
+
+.content table thead th 
+{
+    font-size: .970rem;
+}
+
+/* Table Detail */
+.table-detail tr td {
+    padding-top: 32px !important;
+    padding-bottom: 32px !important;
+}
